@@ -39,7 +39,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "EN")}
 
-## Pancratic Aciner Metaplasia, Stomach
+## Pancreatic Acinar Metaplasia, Stomach
 
 ```
 
@@ -104,7 +104,7 @@ asis, echo = (language == "TR")
 
 ```{asis, echo = (language == "EN")}
 
-**Pancratic Aciner Metaplasia, Stomach**
+**Pancreatic Acinar Metaplasia, Stomach**
 
 
 [https://images.patolojiatlasi.com/metaplasia/HE.html](https://images.patolojiatlasi.com/metaplasia/HE.html)
@@ -129,7 +129,7 @@ See Microscopy with viewer:
 asis, echo = (language == "EN")
 
 <button id="dx-case-metaplasia-btn">Show the Diagnosis</button>
-<div id="answer-metaplasia" style="display: none;">Pancratic Aciner Metaplasia, Stomach</div>
+<div id="answer-metaplasia" style="display: none;">Pancreatic Acinar Metaplasia, Stomach</div>
 
 <script>
   const showAnswer-metaplasiaBtn = document.getElementById('dx-case-metaplasia-btn');
