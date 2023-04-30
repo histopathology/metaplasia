@@ -58,6 +58,15 @@ Mikroskopik görüntüleri inceleyin:
 <iframe src="https://images.patolojiatlasi.com/metaplasia/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 
+[https://images.patolojiatlasi.com/metaplasia/HE_annotated.html](https://images.patolojiatlasi.com/metaplasia/HE_annotated.html)
+
+İşaretli görüntüleri inceleyin:
+
+<iframe src="https://images.patolojiatlasi.com/metaplasia/HE_annotated.html" style="height:400px;width:100%;" data-external="1"></iframe>
+
+
+
+
 [https://images.patolojiatlasi.com/metaplasia/trypsin.html](https://images.patolojiatlasi.com/metaplasia/trypsin.html)
 
 Mikroskopik görüntüleri inceleyin:
@@ -112,6 +121,14 @@ asis, echo = (language == "TR")
 See Microscopy with viewer: 
 
 <iframe src="https://images.patolojiatlasi.com/metaplasia/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+
+
+[https://images.patolojiatlasi.com/metaplasia/HE_annotated.html](https://images.patolojiatlasi.com/metaplasia/HE_annotated.html)
+
+See Annotated Microscopy with viewer: 
+
+<iframe src="https://images.patolojiatlasi.com/metaplasia/HE_annotated.html" style="height:400px;width:100%;" data-external="1"></iframe>
+
 
 
 [https://images.patolojiatlasi.com/metaplasia/trypsin.html](https://images.patolojiatlasi.com/metaplasia/trypsin.html)
